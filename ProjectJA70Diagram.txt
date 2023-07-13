@@ -1,0 +1,62 @@
+       +-----------------+
+       |    Airplane     |
+       +-----------------+
+       | - brand: String |
+       | - price: double |
+       | - horsepower: int|
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |   Helicopter    |
+       +-----------------+
+       | - cylinders: int |
+       | - creationYear: int|
+       | - passengerCapacity: int |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |   Quadcopter    |
+       +-----------------+
+       | - maxFlyingSpeed: int |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |   Multirotor    |
+       +-----------------+
+       | - numberOfRotors: int |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |      UAV        |
+       +-----------------+
+       | - weight: double |
+       | - price: double |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       | AgriculturalDrone |
+       +-----------------+
+       | - brand: String |
+       | - carryCapacity: int |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |       MAV       |
+       +-----------------+
+       | - model: String |
+       | - size: double  |
+       +-----------------+
+              ^
+              |
+       +-----------------+
+       |      Driver     |
+       +-----------------+
+       | - name: String  |
+       | - age: int      |
+       +-----------------+
